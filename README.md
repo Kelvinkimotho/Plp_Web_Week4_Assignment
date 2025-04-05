@@ -23,4 +23,17 @@ Ensure proper alignment and spacing.
 - Make the page responsive.
 - Test across different screen sizes.
 
+# Large screens
+
+![large](test_screenshots/large_screen.png)
+
+# Smaller screens
+
+![medium](test_screenshots/medium.png)
+
+# Mobile devices
+
+![mobile](test_screenshots/)
+
+
 Happy Coding! 💻✨

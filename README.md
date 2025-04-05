@@ -33,7 +33,7 @@ Ensure proper alignment and spacing.
 
 # Mobile devices
 
-![mobile](test_screenshots/)
+![mobile](test_screenshots/mobile.png)
 
 
 Happy Coding! 💻✨
